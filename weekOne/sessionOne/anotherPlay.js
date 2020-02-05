@@ -1,4 +1,4 @@
-console.log("You are runnning anotherPlay");
+console.log("You are runnning anotherPlay!");
 
 var name = "Tim";
 
